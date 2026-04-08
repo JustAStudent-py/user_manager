@@ -95,6 +95,7 @@ Controla o fluxo do sistema:
 ```bash "
 git clone https://github.com/seu-usuario/user-management-cli.git
 cd user-management-cli
+cd app
 ```
 
 ---
